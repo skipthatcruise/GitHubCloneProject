@@ -1,2 +1,2 @@
 # GitHubCloneProject
-This is where i will be practicing cloning etc
+This is the description of my repo
